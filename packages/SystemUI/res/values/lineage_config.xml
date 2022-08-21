@@ -74,6 +74,9 @@
     -->
     <string name="config_screenRecorderAVCProfileLevel" translatable="false">4.2</string>
 
+    <!-- Udfps vendor code -->
+    <integer name="config_udfpsVendorCode">0</integer>
+
     <!-- Whether to play turbulence noise after clicking the play button -->
     <bool name="config_turbulenceNoise">true</bool>
 
